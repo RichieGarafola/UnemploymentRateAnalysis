@@ -104,3 +104,5 @@ Make sure to set the FRED API key in the .env file or as an environment variable
 The script uses the plotly library to generate interactive plots that can be zoomed and panned.
 
 The script assumes that the unemployment rate data is in the format "Seasonally Adjusted"
+
+
